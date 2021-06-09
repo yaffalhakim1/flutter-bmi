@@ -1,6 +1,6 @@
 # multi_provider
 
-A new Flutter project.
+Calculate BMI using multi provider
 
 ## Getting Started
 
